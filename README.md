@@ -4,9 +4,11 @@ Data spotkania 12.01.2015
 
 ## Pytania na które trzeba odpowiedzieć:
  * Czym jest docker?
+ * Do czego służy docker? Kiedy go używać, a kiedy nie?
  * Jak działa docker? (Na jakiej technologii się opiera)
  * W czym docker (jest lepszy)/(różni się) od maszyny wirtualej?
  * Czy docker w środku ma system operacyjny? Jeżeli tak to jaki?
+ * Czym się różni Dockerfile od Vagrantfile?
 
 
 ## Linki pomocnicze:
