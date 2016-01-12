@@ -12,6 +12,11 @@ Data spotkania 12.01.2015
  * Czym się różni Dockerfile od Vagrantfile?
  * Co znaczy docker-client i docker-server? Czym one się róznią?
  * Co dalej? (Mały wstęp do zaawasowanego użycia Docker'a i Vagrant'a. np Kubernetes)
+ * Czy można uruchomić aplikację GUI w dockerze?
+
+## Vagrantowe pytania
+ * Co znaczy provision w Vagrancie?
+ * Co konkretnie robi up, reload, halt w Vagrancie?
 
 
 ## Linki pomocnicze:
@@ -23,3 +28,4 @@ Data spotkania 12.01.2015
 * https://blog.abevoelker.com/why-i-dont-use-docker-much-anymore/
 * https://en.wikipedia.org/wiki/Docker_%28software%29
 * http://stackoverflow.com/questions/17547112/why-cant-you-install-docker-natively-in-osx
+* https://viget.com/extend/how-to-use-docker-on-os-x-the-missing-guide (fajne obrazki)
