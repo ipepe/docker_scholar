@@ -8,14 +8,11 @@
 ## Firefox
 Zbuduj:
 ```
-docker build -t firefox firefox/
+docker build -t opera opera/
 ```
 Uruchom:
 ```
-docker run -ti --rm \
-       -e DISPLAY=$DISPLAY \
-       -v /tmp/.X11-unix:/tmp/.X11-unix \
-       firefox
+docker run -ti --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix opera
 ```
 
 Efekt:
