@@ -2,6 +2,8 @@
 ## Vagrant: Tworzy i konfiguruje lekkie, odtwarzalne i mobilne środowiska deweloperskie.
 Vagrant jest narzędziem do odtwarzalnego tworzenia środowisk na maszynach wirtualnych z użyciem aplikacji Oracle's VirtualBox lub VMWare. Vagrant zajmuje się koordynacją poleceń instalujących oprogramowanie w sposób jakby prowadził każdy instalator po kolei za rączkę. Takie działanie jest określane jako "provisioning".
 
+![Image](vm_vs_container.jpeg)
+
 ## Docker: Projekt otwartego oprogramowania do pakowania, wysyłania i uruchamiania aplikacji jako lekkie kontenery.
 Działanie funkcji Dockera pokrywa się troche z funkcjami Vagranta (lub kto chce na odwrót). Docker pozwala określić process instalacji oprogramowania na systemie operacyjnym kontenera. Jednakże znacząco się różni w technologiach jakie do tego wykorzystuje. Docker używa "kontenerów Linuxowych", które nie są maszynami wirtualnymi per se, ale są wyizolowanymi procesami działającymi na wyizolowanym systemie plików. Docker też posiada narzędzie do koordynacji poleceń instalujących oprogramowanie w celu "provisioningu" kontenerów.
 
